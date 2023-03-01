@@ -1,6 +1,6 @@
 # Projeto IA
 
-Projeto realizado no âmbito da U.C. de Inteligência Artificial do 3º Ano da licenciatura em Engenharia Informática da UM.
+Projeto realizado no âmbito da U.C. de Inteligência Artificial do 3º Ano da Licenciatura em Engenharia Informática da UM.
 
 ## Authors
 * [João Ramos](https://github.com/JoaoRamoss)
